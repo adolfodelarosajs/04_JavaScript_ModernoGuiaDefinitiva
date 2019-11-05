@@ -368,80 +368,42 @@ JavaScript es el lenguaje más popular para web hoy en día, y puede utilizarse 
 * Configurando el Servidor de Express                                                                              06:46
 * Creando las Rutas                                                                                                04:05
 * Creando las Vistas                                                                                               06:23
-* Creando un Master Page 
-07:02
-* Creando un directorio para los archivos estaticos 
-02:28
-* Agregando Fuentes de Google Fonts 
-01:25
-* Creando un Header 
-05:27
-* Creando el Footer 
-08:43
-* Pasando Variables hacia las vistas 
-07:31
-* Creando la Sección de Nosotros (Parte 1 de 2 ) 
-03:14
-* Creando la Sección de Nosotros (Parte 2 de 2 ) 
-02:26
-* Conectando a una Base de Datos con Sequelize 
-06:54
-* Creando la Tabla de Viajes y el Modelo 
-07:13
-* Creando la Vista para los Próximos Viajes 
-02:28
-* Consultando la Base de Datos y Pasando el Resultado a la vista 
-03:27
-* Mostrando los Resultados en la Vista 
-08:11
-* Creando la Vista para cada Viaje y Consultando la BD 
-05:43
-* Imprimiendo el Resto de Campos 
-02:14
-* Creando la Vista de Testimoniales 
-05:47
-* Creando la Tabla y el Modelo para los Testimoniales 
-02:36
-* Validando Formularios en Node 
-05:35
-* Llenando los Campos que el Usuario haya llenado correctamente 
-03:29
-* Mostrando Alertas de Error 
-02:08
-* Almacenando los Datos del Formulario en la BD 
-02:58
-* Mostrando los Testimoniales 
-05:30
-* Creando la Página Principal 
-03:41
-* Creando la Sección de Nosotros y Descuento 
-03:57
-* Creando un Parcial re-utilizable para los Viajes 
-04:46
-* Pasando 2 consultas a la Vista 
-08:13
-* Detectando la página Actual 
-03:25
-* Revisando el Proyecto de Posibles Errores 
-01:12
-* Agregando la C (Controladores) a nuestro MVC 
-07:29
-* Finalizando los Controladores 
-05:11
-* Habilitando Async / Await en NodeJS 
-07:00
-* Qué Aprendimos en este capítulo 
-03:20
-* Preparando el proyecto para deployment - variables de entorno (BD) 
-04:08
-* Preparando el proyecto para deployment - variables de entorno (Servidor) 
-04:20
-* Creando un repositorio de Git 
-03:58
-* Deployment a Heroku 
-02:53
-* Migrando la Base de datos 
-07:58
-* Últimos Ajustes 
-03:20
+* Creando un Master Page                                                                                           07:02
+* Creando un directorio para los archivos estaticos                                                                02:28
+* Agregando Fuentes de Google Fonts                                                                                01:25
+* Creando un Header                                                                                                05:27
+* Creando el Footer                                                                                                08:43
+* Pasando Variables hacia las vistas                                                                               07:31
+* Creando la Sección de Nosotros (Parte 1 de 2 )                                                                   03:14
+* Creando la Sección de Nosotros (Parte 2 de 2 )                                                                   02:26
+* Conectando a una Base de Datos con Sequelize                                                                     06:54
+* Creando la Tabla de Viajes y el Modelo                                                                           07:13
+* Creando la Vista para los Próximos Viajes                                                                        02:28
+* Consultando la Base de Datos y Pasando el Resultado a la vista                                                   03:27
+* Mostrando los Resultados en la Vista                                                                             08:11
+* Creando la Vista para cada Viaje y Consultando la BD                                                             05:43
+* Imprimiendo el Resto de Campos                                                                                   02:14
+* Creando la Vista de Testimoniales                                                                                05:47
+* Creando la Tabla y el Modelo para los Testimoniales                                                              02:36
+* Validando Formularios en Node                                                                                    05:35
+* Llenando los Campos que el Usuario haya llenado correctamente                                                    03:29
+* Mostrando Alertas de Error                                                                                       02:08
+* Almacenando los Datos del Formulario en la BD                                                                    02:58
+* Mostrando los Testimoniales                                                                                      05:30
+* Creando la Página Principal                                                                                      03:41
+* Creando la Sección de Nosotros y Descuento                                                                       03:57
+* Creando un Parcial re-utilizable para los Viajes                                                                 04:46
+* Pasando 2 consultas a la Vista                                                                                   08:13
+* Detectando la página Actual                                                                                      03:25
+* Revisando el Proyecto de Posibles Errores                                                                        01:12
+* Agregando la C (Controladores) a nuestro MVC                                                                     07:29
+* Finalizando los Controladores                                                                                    05:11
+* Habilitando Async / Await en NodeJS                                                                              07:00
+* Qué Aprendimos en este capítulo                                                                                  03:20
+* Preparando el proyecto para deployment - variables de entorno (BD)                                               04:08
+* Preparando el proyecto para deployment - variables de entorno (Servidor)                                         04:20
+* Creando un repositorio de Git                                                                                    03:58
+* Deployment a Heroku                                                                                              02:53
+* Migrando la Base de datos                                                                                        07:58
+* Últimos Ajustes                                                                                                  03:20
 * Requisitos
